@@ -1,0 +1,11 @@
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\netcoreapp2.0\PrimeStringVB.deps.json
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\netcoreapp2.0\PrimeStringVB.runtimeconfig.json
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\netcoreapp2.0\PrimeStringVB.runtimeconfig.dev.json
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\netcoreapp2.0\PrimeStringVB.dll
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\bin\Debug\netcoreapp2.0\PrimeStringVB.pdb
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\netcoreapp2.0\PrimeStringVB.vbprojAssemblyReference.cache
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\netcoreapp2.0\PrimeStringVB.vbproj.CoreCompileInputs.cache
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\netcoreapp2.0\PrimeStringVB.AssemblyInfoInputs.cache
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\netcoreapp2.0\PrimeStringVB.AssemblyInfo.vb
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\netcoreapp2.0\PrimeStringVB.dll
+c:\users\jreinhart\source\repos\PrimeStringVB\PrimeStringVB\obj\Debug\netcoreapp2.0\PrimeStringVB.pdb
